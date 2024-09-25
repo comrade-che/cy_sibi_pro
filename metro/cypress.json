@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://172.30.48.84:8083/",
+    "defaultCommandTimeout": 10000,
+    "numTestsKeptInMemory": 50,
+    "chromeWebSecurity": false,
+    "projectId": "Metro-testAQA-v.2",
+    "autor": "ChernenkoEG"
+}
